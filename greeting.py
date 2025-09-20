@@ -1,0 +1,1 @@
+print("Hello and welcome from DevOps Lab 3!")
